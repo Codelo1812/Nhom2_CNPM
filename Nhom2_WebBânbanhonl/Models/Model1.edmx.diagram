@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2c0fafdd4ffe4f6aa341c530a9722d03" Name="Diagram1">
+        <EntityTypeShape EntityType="DBCakeStoreModel.BANH" Width="1.5" PointX="5.25" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.CHITIETDONHANG" Width="1.5" PointX="7.5" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.DANHMUC" Width="1.5" PointX="7.5" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.DONHANG" Width="1.5" PointX="3" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.GIOHANG" Width="1.5" PointX="3" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.KHACHHANG" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.KHACHHANG_SĐT" Width="1.5" PointX="3" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.NHANVIEN_SDT" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.THANHTOAN" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.VANCHUYEN" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <AssociationConnector Association="DBCakeStoreModel.FK__CHITIETDO__IdDon__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="DBCakeStoreModel.FK__DONHANG__idKhach__60A75C0F" ManuallyRouted="false" />
+        <AssociationConnector Association="DBCakeStoreModel.FK__DONHANG__idNV__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="DBCakeStoreModel.FK__DONHANG__idTT__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="DBCakeStoreModel.FK__DONHANG__MaVanCh__5FB337D6" ManuallyRouted="false" />
+        <AssociationConnector Association="DBCakeStoreModel.FK__GIOHANG__idKhach__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="DBCakeStoreModel.FK__KHACHHANG__idKha__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="DBCakeStoreModel.FK__NHANVIEN_S__idNV__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="DBCakeStoreModel.Ban" ManuallyRouted="false" />
+        <AssociationConnector Association="DBCakeStoreModel.Gom" ManuallyRouted="false" />
+        <AssociationConnector Association="DBCakeStoreModel.Trong" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
