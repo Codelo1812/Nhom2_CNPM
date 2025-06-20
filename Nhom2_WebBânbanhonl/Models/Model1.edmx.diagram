@@ -10,7 +10,7 @@
         <EntityTypeShape EntityType="DBCakeStoreModel.DANHMUC" Width="1.5" PointX="7.5" PointY="8.625" IsExpanded="true" />
         <EntityTypeShape EntityType="DBCakeStoreModel.DONHANG" Width="1.5" PointX="3" PointY="3.375" IsExpanded="true" />
         <EntityTypeShape EntityType="DBCakeStoreModel.GIOHANG" Width="1.5" PointX="3" PointY="8.625" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBCakeStoreModel.KHACHHANG" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCakeStoreModel.KHACHHANG" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
         <EntityTypeShape EntityType="DBCakeStoreModel.KHACHHANG_SĐT" Width="1.5" PointX="3" PointY="11.75" IsExpanded="true" />
         <EntityTypeShape EntityType="DBCakeStoreModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
         <EntityTypeShape EntityType="DBCakeStoreModel.NHANVIEN_SDT" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
