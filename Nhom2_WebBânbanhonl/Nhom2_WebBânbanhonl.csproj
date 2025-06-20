@@ -200,9 +200,36 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\cssHome\StyleHome.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="image\banner.png" />
+    <Content Include="image\birthday-cake.png" />
+    <Content Include="image\clock.png" />
+    <Content Include="image\confetti.png" />
+    <Content Include="image\email.png" />
+    <Content Include="image\facebook.png" />
+    <Content Include="image\filter.png" />
+    <Content Include="image\hinh1.jpg" />
+    <Content Include="image\hinh2.jpg" />
+    <Content Include="image\hinh3.jpg" />
+    <Content Include="image\hinh4.jpg" />
+    <Content Include="image\hinh5.jpg" />
+    <Content Include="image\hinh6.jpg" />
+    <Content Include="image\hinh7.jpg" />
+    <Content Include="image\hinh8.jpg" />
+    <Content Include="image\hinh9.jpg" />
+    <Content Include="image\instagram.png" />
+    <Content Include="image\location-pin.png" />
+    <Content Include="image\menu.png" />
+    <Content Include="image\phone-call.png" />
+    <Content Include="image\search.png" />
+    <Content Include="image\shopping-cart.png" />
+    <Content Include="image\snapchat.png" />
+    <Content Include="image\tik-tok.png" />
+    <Content Include="image\twitter.png" />
+    <Content Include="image\youtube.png" />
     <Content Include="Models\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Model1.edmx</DependentUpon>
@@ -251,6 +278,8 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\_LayoutHome.cshtml" />
+    <Content Include="Views\Home\Test1.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
